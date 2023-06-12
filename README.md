@@ -68,6 +68,7 @@ COMMANDS
   usemain <version>     Install in /usr/local/bin (ie, use as your main nodejs)
   clean <version>       Delete the source code for <version>
   uninstall <version>   Delete the install for <version>
+                        Can also be used to remove named envs
   ls                    List versions currently installed
   ls-remote             List remote node versions
   ls-all                List remote and local node versions
